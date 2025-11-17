@@ -21,5 +21,5 @@
 ### 📊 My stats
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SverreHalvorsen&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreHalvorsen&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreHalvorsen&exclude_repo=TDT4172-Machinelearning-Assignments&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
 </div>
